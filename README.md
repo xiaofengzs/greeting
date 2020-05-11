@@ -38,11 +38,8 @@ This is an back-end training for different stage of people. The goal is to let p
 | [M01: Initialize project](./src/Basic/M01.md) | Spring boot, Java, Maven, Git |
 | [M02: Implement api](./src/Basic/M02.md) | Parameter binding, @PostMapping, ResponseEntity |
 | [M03: Docker](./src/Basic/M03.md) | Docker cli, Dockerfile |
-| [M04: Docker Compose](./src/Basic/M04.md) | How to use Docker compose |
-| [M05: Buildkite](./src/Basic/M05.md) | Agent, webhhook, test and package and build image on pipeline     |
-| [M06: Kubernetes](./src/Basic/M06.md) | Minikube, Pod, kubectl |
-| [M07: Kotlin](./src/Basic/M07.md) | Basic knowledge of kotlin |
-| [M08: TDD](./src/Basic/M08.md) | How to use TDD |
+| [M04: Buildkite](src/Basic/M04.md) | Agent, webhhook, test and package and build image on pipeline     |
+| [M05: Kubernetes](src/Basic/M05.md) | Minikube, Pod, kubectl |
 
 ### ![#f4d26c][#f4d26c] Advanced
 
